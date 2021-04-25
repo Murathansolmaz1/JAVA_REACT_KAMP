@@ -1,0 +1,33 @@
+1.)byte :Bu ilkel veri tipi tam sayılar için en küçük tam sayı tipidir.Byte veri 
+tipi bellekte 8 bit yer kaplarlar.8 bitlik alanda da 256(2^8) farklı değer tutabiliriz.
+Byte tipini kullanan değişkenler -128(-2^7) ile 127(2^7-1) arasında değer alabilir.
+
+2.)short :Bu ilkel veri tipi kısa tam sayıları tutar.Bellekte 16 bitlik yer tutar.
+-2^15 ile 2^15-1 arasında deger alabilir.
+
+3.)int :Bu ilkel veri tipi orta uzunlukta tam sayıları tutar.Bellekte 32 bitlik
+ yer tutar.-2^31 ile 2^31-1 arasında değer alabilir.
+
+4.)long :Bu ilkel veri tipi çok uzun tam sayıları içindir.Bellekte 64 bitlik
+ yer tutar.-2^63 ile 2^63-1 arasında deger alabilir.
+
+5.)float :Bu ilkel veri tipi bellekte 32 bitlik yer tutar.-3.4*10^38 ile
+ 3.4*10^38 arasında değer alabilir ve bu değişken ondalıklı sayıların ondalık
+ kısmı için 7 haneye kadar duyarlılıkta olabilir.
+
+6.)double :Bu ilkel veri tipi bellekte 64 bitlik yer tutar.
+-1.7*10^308 ile 1.7*10^308 arasında değer alabilir ve bu değişken
+ ondalıklı sayıların ondalık kısmı için 17 haneye kadar duyarlılıkta olabilir.
+
+7.)char :Karakterler için kullanılır.Bellekte 16 bitlik yer
+ kaplarlar.char ilkel veri tipi unicode karakter setinde karakterlere
+ karşılık gelen işaretsiz tam sayı değerine sahip olduğundan dolayı bu
+ veri tipine sahip değişkenlerle çeşitli aritmetik işlemler ve büyüktür
+ küçüktür gibi karşılaştırmalar yapılabilir.
+
+8.)boolean :Mantıksal işlemlerin sonuçlarını tutmak için kullanılan ve sadece true
+ veya false diye iki değer alabilen veri tipidir.Bellekte 1 bit yer kaplarlar.
+
+9.)Referans Tipleri : Class, Interface, Array
+
+10.)Null Tipi :  herhangi bir değere sahip olmama durumuna verilen isimdir.
