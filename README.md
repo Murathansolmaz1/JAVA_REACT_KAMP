@@ -10,7 +10,7 @@
 <br>
 <li> <a href = "https://github.com/Murathansolmaz1/JAVA_REACT_KAMP/tree/main/2.Hafta">2. Hafta</a> </li>
   
-</li>
+</ul>
 
 ### Ödevler
 
@@ -20,5 +20,5 @@
 <br>
 <li> <a href = "https://github.com/Murathansolmaz1/JAVA_REACT_KAMP/tree/main/2.HaftaOdev">2. Hafta Ödevi (Class Yapısı)</a> </li>
   
-</li>
+</ul>
 
