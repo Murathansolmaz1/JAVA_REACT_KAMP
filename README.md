@@ -9,6 +9,10 @@
 <li> <a href = "https://github.com/Murathansolmaz1/JAVA_REACT_KAMP/tree/main/1.Hafta">1. Hafta</a> </li>
 <br>
 <li> <a href = "https://github.com/Murathansolmaz1/JAVA_REACT_KAMP/tree/main/2.Hafta">2. Hafta</a> </li>
+<br>
+<li> <a href = "https://github.com/Murathansolmaz1/JAVA_REACT_KAMP/tree/main/3.Hafta">3. Hafta 1. Kod</a> </li>
+<br>
+<li> <a href = "https://github.com/Murathansolmaz1/JAVA_REACT_KAMP/tree/main/3.Hafta_2">3. Hafta 2. Kod</a> </li>
   
 </ul>
 
