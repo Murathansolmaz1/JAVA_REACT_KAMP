@@ -23,6 +23,9 @@
 <li> <a href = "https://github.com/Murathansolmaz1/JAVA_REACT_KAMP/blob/main/Java%20Veri%20Tipleri.txt">1. Hafta Ödevi (Java Veri Tipleri)</a> </li>
 <br>
 <li> <a href = "https://github.com/Murathansolmaz1/JAVA_REACT_KAMP/tree/main/2.HaftaOdev">2. Hafta Ödevi (Class Yapısı)</a> </li>
-  
+<br>
+<li> <a href = "https://github.com/Murathansolmaz1/JAVA_REACT_KAMP/tree/main/3.Hafta_Odev">3. Hafta Ödevi (Extends)</a> </li>
+<br>
+
 </ul>
 
