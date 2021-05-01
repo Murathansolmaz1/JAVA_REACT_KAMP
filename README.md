@@ -14,7 +14,7 @@
 <br>
 <li> <a href = "https://github.com/Murathansolmaz1/JAVA_REACT_KAMP/tree/main/3.Hafta_2">3. Hafta 2. Kod</a> </li>
 <br>
-<li> <a href = "https://github.com/Murathansolmaz1/JAVA_REACT_KAMP/tree/main/4.Hafta">4. Hafta(Interface)</a> </li>
+<li> <a href = "https://github.com/Murathansolmaz1/JAVA_REACT_KAMP/tree/main/4.Hafta">4. Hafta (Interface)</a> </li>
   
 </ul>
 
