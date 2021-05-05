@@ -28,6 +28,8 @@
 <br>
 <li> <a href = "https://github.com/Murathansolmaz1/JAVA_REACT_KAMP/tree/main/3.Hafta_Odev">3. Hafta Ödevi (Extends)</a> </li>
 <br>
+<li> <a href = "https://github.com/Murathansolmaz1/JAVA_REACT_KAMP/tree/main/4.HaftaOdev_2%20-%20CoffeeShop">4. Hafta Ödev_2 (CoffeeShop)</a> </li>
+<br>
 
 </ul>
 
